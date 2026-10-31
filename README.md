@@ -26,5 +26,5 @@ Plugin para OBS Studio que permite proyectar letras de canciones en el lienzo, c
 - **F4:** Abrir/Minimizar la ventana de Canciones OBS (configurable en Ajustes > Atajos de OBS).
 - **Flechas:** Estrofa anterior / siguiente.
 - **F9:** Ocultar/Mostrar letra.
-- **0 al 9:** Proyectar la estrofa correspondiente.uild system requirements](https://github.com/obsproject/obs-plugintemplate/wiki/Build-System-Requirements)
-* [Build system options](https://github.com/obsproject/obs-plugintemplate/wiki/CMake-Build-System-Options)
+- **0 al 9:** Proyectar la estrofa correspondiente.
+- 
